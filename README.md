@@ -3,12 +3,10 @@
 
 <p align="center">
   <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=f66c92&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Arhaan+👋;Frontend+Developer+%7C+HTMLCSS+%7C+Javascript;Problem+Solver+%7HTMLCSS%7Javascript%2B%2B;"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=f66c92&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Arhaan+👋;;"
     alt="Typing SVG"
   />
 </p>
-
-
 
 </p>
 
