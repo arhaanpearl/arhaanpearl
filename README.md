@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=f66c92&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Arhaan👋;Frontend+Developer+%7HTMLCSSJavascript+%7C+DRF;Problem+Solver
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=f66c92&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Arhaan+👋;Frontend+Developer+%7C+HTMLCSS+%7C+Javascript;Problem+Solver+%7HTMLCSS%7Javascript%2B%2B;"
     alt="Typing SVG"
   />
 </p>
@@ -42,7 +42,7 @@ I am **Yousuf Hossen Nafis**, a passionate **Frontend Developer** from 🇧🇩 
 ## 📬 Connect with Me  
 
 <p align="center">
-  <a href="[https:/www.linkedin.com/in/yousuf-hossen-nafis-54990b361/]>
+ <a href="https://www.linkedin.com/in/yousuf-hossen-nafis-54990b361">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="yousufhossennafis@gmail.com">
